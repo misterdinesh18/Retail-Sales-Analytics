@@ -1,0 +1,71 @@
+Product_ID,Product_Name,Category,Cost_Price,Selling_Price,Stock_Qty,Supplier,Rating,Reviews_Count
+PRD0001,"Laptop 15""",Electronics,1689.58,84168.24,144,"Prasad, Aggarwal and Jayaraman",4.7,198
+PRD0002,Wireless Headphones,Electronics,1387.58,42564.91,394,Jain-Bakshi,4.0,500
+PRD0003,Smartphone X12,Electronics,1657.05,38717.63,199,Lata-Varughese,4.0,352
+PRD0004,4K Smart TV,Electronics,1144.73,29497.12,414,Toor Group,4.6,1032
+PRD0005,Tablet Pro,Electronics,1453.57,24229.6,19,"Gola, Chander and Borde",4.6,2170
+PRD0006,Bluetooth Speaker,Electronics,1172.27,31895.31,487,Amble Ltd,3.3,2235
+PRD0007,Gaming Mouse,Electronics,1588.16,18569.58,305,Savant LLC,4.7,1124
+PRD0008,USB-C Hub,Electronics,1430.9,72115.1,77,"Upadhyay, Din and Chaudhuri",4.2,82
+PRD0009,Smartwatch,Electronics,1419.49,3656.94,159,"Prabhakar, Kapoor and Parmer",4.7,388
+PRD0010,DSLR Camera,Electronics,1350.4,76271.54,124,Garg Ltd,4.6,1625
+PRD0011,Men Formal Shirt,Clothing,207.98,447.52,266,Mutti-Lall,4.5,2359
+PRD0012,Women Kurti,Clothing,166.72,3574.74,415,Reddy LLC,4.0,850
+PRD0013,Denim Jeans,Clothing,188.01,3235.4,105,Badami-Lala,4.3,1559
+PRD0014,Winter Jacket,Clothing,213.02,1317.85,236,"Baria, Garg and Ganesan",4.7,1255
+PRD0015,Sports T-Shirt,Clothing,242.34,4744.63,323,Narasimhan PLC,4.7,1446
+PRD0016,Salwar Kameez,Clothing,169.91,2435.51,122,"Sen, Rao and Kapoor",3.1,597
+PRD0017,Track Pants,Clothing,208.84,420.79,25,Kalla PLC,4.7,114
+PRD0018,Ethnic Saree,Clothing,197.17,333.48,223,Gaba LLC,4.4,734
+PRD0019,Casual Shorts,Clothing,191.85,4008.48,291,Goel-Loyal,4.7,1822
+PRD0020,Rain Coat,Clothing,251.83,2295.4,251,Dave Ltd,3.4,694
+PRD0021,Office Chair,Furniture,1183.32,42243.68,203,Dube Inc,3.9,972
+PRD0022,Wooden Study Table,Furniture,882.17,29798.69,116,Rai-Wadhwa,4.7,1912
+PRD0023,3-Seater Sofa,Furniture,1114.28,10499.88,66,Kuruvilla-Venkataraman,3.0,1346
+PRD0024,King Bed Frame,Furniture,1043.68,21302.52,61,Khatri-Bhalla,4.1,2357
+PRD0025,Bookshelf 5-Tier,Furniture,1206.99,16779.99,428,"Tata, Dyal and Walia",3.8,250
+PRD0026,TV Stand,Furniture,1027.27,39930.35,226,"Bedi, Chatterjee and Prashad",3.7,2482
+PRD0027,Shoe Rack,Furniture,1219.67,13243.19,302,Narula and Sons,4.2,1450
+PRD0028,Wardrobe 3-Door,Furniture,1038.66,5261.75,41,Singhal PLC,4.4,1901
+PRD0029,Coffee Table,Furniture,948.03,35864.65,214,Basak Inc,3.4,1878
+PRD0030,Dining Set 6-Seater,Furniture,826.77,4383.25,83,Vyas Ltd,4.3,34
+PRD0031,Basmati Rice 5kg,Groceries,49.4,788.27,440,Virk-Garde,4.2,1723
+PRD0032,Toor Dal 1kg,Groceries,45.22,712.54,93,"Krish, Kata and Shan",3.3,121
+PRD0033,Sunflower Oil 1L,Groceries,33.26,226.1,54,"Sarma, Sachdeva and Gade",4.2,2483
+PRD0034,Whole Wheat Flour 5kg,Groceries,41.79,777.55,275,Banik-Nair,4.2,2011
+PRD0035,Organic Honey 500g,Groceries,44.16,138.8,233,Narang PLC,3.8,1674
+PRD0036,Green Tea Box,Groceries,41.02,778.74,281,Johal LLC,3.8,802
+PRD0037,Instant Coffee 200g,Groceries,46.02,703.34,321,"Ghosh, Mohan and Bajaj",4.9,1298
+PRD0038,Mixed Nuts 500g,Groceries,47.22,569.6,410,Bhargava-More,3.5,2071
+PRD0039,Oats 1kg,Groceries,40.13,597.77,343,Gara Ltd,5.0,2493
+PRD0040,Turmeric Powder 200g,Groceries,44.99,659.66,53,Chana-Sahota,3.9,857
+PRD0041,Badminton Racket,Sports,221.17,4253.3,461,"Raju, Nadig and Choudhary",4.2,1524
+PRD0042,Cricket Bat,Sports,235.39,5720.17,244,Gokhale Group,4.3,186
+PRD0043,Yoga Mat,Sports,178.13,3849.89,302,Shan Group,3.4,2025
+PRD0044,Running Shoes,Sports,253.08,6153.35,92,Nagy LLC,3.4,268
+PRD0045,Gym Gloves,Sports,222.04,2768.36,420,"Dada, Kala and Palla",4.7,1456
+PRD0046,Cycling Helmet,Sports,212.4,7409.4,319,Uppal-Baria,4.7,821
+PRD0047,Football,Sports,226.85,4501.73,17,Sarin-Sen,4.1,400
+PRD0048,Resistance Bands,Sports,228.37,5060.18,93,Yohannan-Toor,3.4,1873
+PRD0049,Jump Rope,Sports,221.16,2835.3,59,"Pal, Srivastava and Dhar",3.2,367
+PRD0050,Table Tennis Set,Sports,229.96,4738.83,398,Sachdev-Balasubramanian,3.1,105
+PRD0051,Data Science Handbook,Books,111.33,638.4,144,Kumer-Chopra,3.3,236
+PRD0052,Python Programming,Books,128.73,296.87,469,Loyal Group,3.7,1373
+PRD0053,Business Analytics,Books,135.56,548.23,450,"Suresh, Sharaf and Bhargava",4.6,133
+PRD0054,Machine Learning A-Z,Books,139.99,823.02,405,Raval-Pingle,3.1,2489
+PRD0055,Excel for Beginners,Books,168.87,578.4,231,"Bansal, Parekh and Krishnan",4.6,1654
+PRD0056,SQL Mastery,Books,117.95,794.28,483,Saran Group,4.8,2014
+PRD0057,Power BI Guide,Books,146.11,960.0,110,Acharya Ltd,4.2,1446
+PRD0058,Digital Marketing,Books,157.29,491.2,461,Prakash-Tiwari,4.8,1561
+PRD0059,Finance Basics,Books,136.28,514.39,474,Dayal-Swamy,3.1,384
+PRD0060,Leadership 101,Books,110.9,531.41,354,"Mangat, Chowdhury and Hegde",3.1,1064
+PRD0061,LEGO City Set,Toys,161.78,2117.81,265,Tandon and Sons,3.1,1476
+PRD0062,Remote Control Car,Toys,156.83,1825.51,447,Dara-Chauhan,4.7,1559
+PRD0063,Board Game Monopoly,Toys,162.33,2142.34,455,Dash-Sachdev,3.0,206
+PRD0064,Jigsaw Puzzle 1000,Toys,118.31,3739.54,374,"Shetty, Bhat and Chawla",4.6,2234
+PRD0065,Barbie Doll Set,Toys,116.97,1222.06,231,"Kaul, Narasimhan and Salvi",4.0,2004
+PRD0066,Action Figure Pack,Toys,150.18,3444.55,401,"Seth, Palla and Vig",4.5,716
+PRD0067,Science Kit,Toys,155.21,501.15,474,Bir PLC,3.8,2237
+PRD0068,Painting Set,Toys,149.74,2578.11,164,Shetty PLC,3.2,2022
+PRD0069,Soft Stuffed Bear,Toys,165.73,3321.71,74,"Mall, Jhaveri and Murty",4.0,877
+PRD0070,Building Blocks,Toys,167.47,3841.9,380,Saxena-Rana,3.5,1272
