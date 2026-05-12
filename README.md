@@ -27,7 +27,6 @@ The dashboard provides interactive visual insights that help in understanding bu
 ## KPIs Included
 - Total Sales
 - Total Profit
-- Achievement
 - Average Age
 - Order Count
 
